@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ai-research-agent/mlruns/0/8ec1a6095746416bab98c7c3030dab19/artifacts
+end_time: 1749416276844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ec1a6095746416bab98c7c3030dab19
+run_name: pipeline_machine learning
+run_uuid: 8ec1a6095746416bab98c7c3030dab19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749416253484
+status: 3
+tags: []
+user_id: saniy
